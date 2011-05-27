@@ -6,7 +6,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.8.5
-Release:	%mkrel 13
+Release:	%mkrel 14
 Summary:	Class to represent matrices and matrix operations
 License:	PHP License
 Group:		Development/PHP
